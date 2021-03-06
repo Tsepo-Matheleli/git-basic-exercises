@@ -1,13 +1,3 @@
 ignore-me.db
-
 /large-directory-that-should-be-local-only
-*.md.swp
-README_BACKUP_1382.md
-README_BASE_1382.md
-README_LOCAL_1382.md
-README_REMOTE_1382.md
-.README.md
-.README_BASE_1382.md
-.README_LOCAL_1382.md
-.README_REMOTE_1382.md
 
